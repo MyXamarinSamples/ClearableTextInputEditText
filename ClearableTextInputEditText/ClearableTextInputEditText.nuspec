@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Metanoy.ClearableTextInputEditText</id>
+    <version>$version$</version>
+    <title>Clearable TextInputEditText</title>
+	<authors>Metanoy</authors>
+    <owners>Metanoy</owners>
+    <projectUrl>https://github.com/Metanoy/ClearableTextInputEditText</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A clearable TextInputEditText view for Xamarin Android</description>
+	<summary>A clearable TextInputEditText view for Xamarin Android</summary>
+    <releaseNotes>1st release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Clearable ClearableTextInputEditText ClearableEditText EditText TextInputEditText</tags>
+  </metadata>
+</package>

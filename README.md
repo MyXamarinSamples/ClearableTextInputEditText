@@ -5,7 +5,7 @@ Function
 ---
 ![Usage](https://github.com/Metanoy/ClearableTextInputEditText/blob/master/screenshots/usage.gif)
 
-- Add a icon in the right of TextInputEditText
+- Add an icon to the right of TextInputEditText
 - Clear text when the icon is touched
 - Hide icon when EditText not focused
 - You can define your own icon drawable
@@ -24,6 +24,7 @@ Default Clearable EditText:
 
 Screenshot of demo:
 ![Default Icon](https://github.com/Metanoy/ClearableTextInputEditText/blob/master/screenshots/default-icon.png)
+
 And you can define your own icon drawable by assigning drawable resource to `app:clearIconDrawable`:
 
 Custom Clearable EditText:
